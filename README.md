@@ -1,5 +1,5 @@
 # JS.Student_dashboard
-View [here](https://margaritadaynitcyna.github.io/JS.Student_dashboard/)
+View [here](https://margaritadaynitcyna.github.io/student-dashboard-JS/)
 
 JS application - student control panel is:
 - form of adding a new student, with validation of all fields;
